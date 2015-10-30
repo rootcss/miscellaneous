@@ -1044,12 +1044,12 @@ background-image: url(http://4.bp.blogspot.com/-vH2opzaMWb4/U9YLsElV4CI/AAAAAAAA
 }
 
 #outerafterheader{
-	padding:100px 0px 115px; 
-	border-bottom:0px solid; 
-	transition:padding 1s ease-in-out;
-	-moz-transition:padding 1s ease-in-out;
-	-webkit-transition:padding 1s ease-in-out;
-	-o-transition:padding 1s ease-in-out;
+  padding:100px 0px 115px; 
+  border-bottom:0px solid; 
+  transition:padding 1s ease-in-out;
+  -moz-transition:padding 1s ease-in-out;
+  -webkit-transition:padding 1s ease-in-out;
+  -o-transition:padding 1s ease-in-out;
 width:100%;
 }
 #afterheader{}
@@ -1067,9 +1067,9 @@ color: #efefef;
 }
 
 #outerheaderauthor{
-	-moz-box-shadow: 0 0 3px 0 #000;
-	-webkit-box-shadow: 0 0 3px 0 #000;
-	box-shadow: 0 0 3px 0 #000;
+  -moz-box-shadow: 0 0 3px 0 #000;
+  -webkit-box-shadow: 0 0 3px 0 #000;
+  box-shadow: 0 0 3px 0 #000;
 background-color: #fff;
 }
 
@@ -1083,20 +1083,20 @@ float:left;}
 .avatarcontainer{position:relative; width:129px; float:left; margin-right:35px; transition:width 0.2s ease-in-out; -moz-transition:width 0.2s ease-in-out; -webkit-transition:width 0.2s ease-in-out; -o-transition:width 0.2s ease-in-out;}
 #outerheaderauthor.sticky .avatarcontainer{width:50px;}
 .avatarcontainer img{
-	height:auto;
-	display:block;
-	margin-top:-31px;
-	-moz-box-shadow: 0 0 2px 0 #000;
-	-webkit-box-shadow: 0 0 2px 0 #000;
-	box-shadow: 0 0 2px 0 #000;
-	border:3px solid #fff;
-	border-radius:50%; 
-	-moz-border-radius:50%; 
-	-webkit-border-radius:50%;
-	transition:margin-top 0.2s ease-in-out; 
-	-moz-transition:margin-top 0.2s ease-in-out; 
-	-webkit-transition:margin-top 0.2s ease-in-out; 
-	-o-transition:margin-top 0.2s ease-in-out;
+  height:auto;
+  display:block;
+  margin-top:-31px;
+  -moz-box-shadow: 0 0 2px 0 #000;
+  -webkit-box-shadow: 0 0 2px 0 #000;
+  box-shadow: 0 0 2px 0 #000;
+  border:3px solid #fff;
+  border-radius:50%; 
+  -moz-border-radius:50%; 
+  -webkit-border-radius:50%;
+  transition:margin-top 0.2s ease-in-out; 
+  -moz-transition:margin-top 0.2s ease-in-out; 
+  -webkit-transition:margin-top 0.2s ease-in-out; 
+  -o-transition:margin-top 0.2s ease-in-out;
 }
 #outerheaderauthor.sticky .avatarcontainer img{margin-top:5px;}
 .iconpretext{font-weight:700; text-transform:uppercase; font-size:14px; float:left; padding-top:24px; margin:0px 25px 0px 0px;}
@@ -1108,14 +1108,14 @@ float:left;}
 .sn{margin:0; padding:0; float:left;}
 .sn li{list-style-type:none; height:30px; width:30px; list-style-type:none; margin:18px 2px 0px; padding:0px; float:left;}
 .sn a{display:inline-block; line-height:27px; width:27px; text-align:center; font-size:20px;
-	border-radius:27px;
+  border-radius:27px;
 color:#888;
-	-moz-border-radius:27px;
-	-webkit-border-radius:27px;
-	transition: color 0.5s, border-color 0.5s;
-	-moz-transition: color 0.5s, border-color 0.5s; /* Firefox 4 */
-	-webkit-transition: color 0.5s, border-color 0.5s; /* Safari and Chrome */
-	-o-transition: color 0.5s, border-color 0.5s; /* Opera */
+  -moz-border-radius:27px;
+  -webkit-border-radius:27px;
+  transition: color 0.5s, border-color 0.5s;
+  -moz-transition: color 0.5s, border-color 0.5s; /* Firefox 4 */
+  -webkit-transition: color 0.5s, border-color 0.5s; /* Safari and Chrome */
+  -o-transition: color 0.5s, border-color 0.5s; /* Opera */
 }
 
 
@@ -1895,18 +1895,18 @@ transition: 300ms;
 }
 
 .blog-share-button {
-	text-align: center;
+  text-align: center;
 }
 
 .blog-share-button ul{
-	display: block;
-	padding: 0;
-	margin: 0;
-	list-style: none;
+  display: block;
+  padding: 0;
+  margin: 0;
+  list-style: none;
 }
 
 .blog-share-button ul li {
-	  margin-right: 10px;
+    margin-right: 10px;
   font-size: 16px;
   text-align: center;
   color: #333;
@@ -1923,10 +1923,10 @@ transition: 300ms;
 }
 
 .blog-share-button ul li a {
-	color: #000;
-	font-size: 14px;
-	transition:300ms;
-	-webkit-transition:300ms;
+  color: #000;
+  font-size: 14px;
+  transition:300ms;
+  -webkit-transition:300ms;
 }
 
 
@@ -1956,33 +1956,33 @@ background-color: #fbcd12;
 
 /* social button widget */
 .themewing-about-social {
-	padding: 0;
-	list-style: none;
-	margin-top: 30px;
+  padding: 0;
+  list-style: none;
+  margin-top: 30px;
 }
 
 .themewing-about-social li {
-	display: inline-block;
-	margin-right: 5px;
-	margin-bottom: 5px;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
 }
 
 .themewing-about-social li a {
-	color: #ccc;
-	border: 1px solid #f8f8f8;
-	display: inline-block;
-	width: 32px;
-	line-height: 32px;
-	text-align: center;
-	height: 32px;
-	border-radius: 3px;
-	font-size: 14px;
-	transition:300ms;
-	-webkit-transition:300ms;	
+  color: #ccc;
+  border: 1px solid #f8f8f8;
+  display: inline-block;
+  width: 32px;
+  line-height: 32px;
+  text-align: center;
+  height: 32px;
+  border-radius: 3px;
+  font-size: 14px;
+  transition:300ms;
+  -webkit-transition:300ms; 
 }
 
 .themewing-about-social li a:hover {
-	color:#fff;
+  color:#fff;
 }
 .themewing-about-social {
 padding: 0;
@@ -2354,6 +2354,16 @@ letter-spacing: .5px;
 }
 ]]></b:skin>
 
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<style type='text/css'>
+.post, #blog-pager {display:none;}
+</style>
+</b:if>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<style type='text/css'>
+body#layout .sidebar {display:inline;margin-top:200px;}
+</style>
+</b:if>
 
 <style>
 
@@ -2685,83 +2695,83 @@ function av(a) {
     var thumburl = new Array();
 
     function related_results_labels_thumbs(json) {
-    	for (var i = 0; i < json.feed.entry.length; i++) {
-    		var entry = json.feed.entry[i];
-    		relatedTitles[relatedTitlesNum] = entry.title.$t;
-    		try {
-    			thumburl[relatedTitlesNum] = entry.gform_foot.url
-    		} catch (error) {
-    			s = entry.content.$t;
-    			a = s.indexOf("<img");
-    			b = s.indexOf("src=\"", a);
-    			c = s.indexOf("\"", b + 5);
-    			d = s.substr(b + 5, c - b - 5);
-    			if ((a != -1) && (b != -1) && (c != -1) && (d != "")) {
-    				thumburl[relatedTitlesNum] = d
-    			} else thumburl[relatedTitlesNum] = 'http://3.bp.blogspot.com/-zP87C2q9yog/UVopoHY30SI/AAAAAAAAE5k/AIyPvrpGLn8/s1600/picture_not_available.png'
-    		}
-    		if (relatedTitles[relatedTitlesNum].length > 35) relatedTitles[relatedTitlesNum] = relatedTitles[relatedTitlesNum].substring(0, 35) + "...";
-    		for (var k = 0; k < entry.link.length; k++) {
-    			if (entry.link[k].rel == 'alternate') {
-    				relatedUrls[relatedTitlesNum] = entry.link[k].href;
-    				relatedTitlesNum++
-    			}
-    		}
-    	}
+      for (var i = 0; i < json.feed.entry.length; i++) {
+        var entry = json.feed.entry[i];
+        relatedTitles[relatedTitlesNum] = entry.title.$t;
+        try {
+          thumburl[relatedTitlesNum] = entry.gform_foot.url
+        } catch (error) {
+          s = entry.content.$t;
+          a = s.indexOf("<img");
+          b = s.indexOf("src=\"", a);
+          c = s.indexOf("\"", b + 5);
+          d = s.substr(b + 5, c - b - 5);
+          if ((a != -1) && (b != -1) && (c != -1) && (d != "")) {
+            thumburl[relatedTitlesNum] = d
+          } else thumburl[relatedTitlesNum] = 'http://3.bp.blogspot.com/-zP87C2q9yog/UVopoHY30SI/AAAAAAAAE5k/AIyPvrpGLn8/s1600/picture_not_available.png'
+        }
+        if (relatedTitles[relatedTitlesNum].length > 35) relatedTitles[relatedTitlesNum] = relatedTitles[relatedTitlesNum].substring(0, 35) + "...";
+        for (var k = 0; k < entry.link.length; k++) {
+          if (entry.link[k].rel == 'alternate') {
+            relatedUrls[relatedTitlesNum] = entry.link[k].href;
+            relatedTitlesNum++
+          }
+        }
+      }
     }
     function removeRelatedDuplicates_thumbs() {
-    	var tmp = new Array(0);
-    	var tmp2 = new Array(0);
-    	var tmp3 = new Array(0);
-    	for (var i = 0; i < relatedUrls.length; i++) {
-    		if (!contains_thumbs(tmp, relatedUrls[i])) {
-    			tmp.length += 1;
-    			tmp[tmp.length - 1] = relatedUrls[i];
-    			tmp2.length += 1;
-    			tmp3.length += 1;
-    			tmp2[tmp2.length - 1] = relatedTitles[i];
-    			tmp3[tmp3.length - 1] = thumburl[i]
-    		}
-    	}
-    	relatedTitles = tmp2;
-    	relatedUrls = tmp;
-    	thumburl = tmp3
+      var tmp = new Array(0);
+      var tmp2 = new Array(0);
+      var tmp3 = new Array(0);
+      for (var i = 0; i < relatedUrls.length; i++) {
+        if (!contains_thumbs(tmp, relatedUrls[i])) {
+          tmp.length += 1;
+          tmp[tmp.length - 1] = relatedUrls[i];
+          tmp2.length += 1;
+          tmp3.length += 1;
+          tmp2[tmp2.length - 1] = relatedTitles[i];
+          tmp3[tmp3.length - 1] = thumburl[i]
+        }
+      }
+      relatedTitles = tmp2;
+      relatedUrls = tmp;
+      thumburl = tmp3
     }
     function contains_thumbs(a, e) {
-    	for (var j = 0; j < a.length; j++) if (a[j] == e) return true;
-    	return false
+      for (var j = 0; j < a.length; j++) if (a[j] == e) return true;
+      return false
     }
     function printRelatedLabels_thumbs() {
-    	for (var i = 0; i < relatedUrls.length; i++) {
-    		if ((relatedUrls[i] == currentposturl) || (!(relatedTitles[i]))) {
-    			relatedUrls.splice(i, 1);
-    			relatedTitles.splice(i, 1);
-    			thumburl.splice(i, 1);
-    			i--
-    		}
-    	}
-    	var r = Math.floor((relatedTitles.length - 1) * Math.random());
-    	var i = 0;
-    	if (relatedTitles.length >= 1)
+      for (var i = 0; i < relatedUrls.length; i++) {
+        if ((relatedUrls[i] == currentposturl) || (!(relatedTitles[i]))) {
+          relatedUrls.splice(i, 1);
+          relatedTitles.splice(i, 1);
+          thumburl.splice(i, 1);
+          i--
+        }
+      }
+      var r = Math.floor((relatedTitles.length - 1) * Math.random());
+      var i = 0;
+      if (relatedTitles.length >= 1)
 
 document.write('<div class="large-12 column"><h2 class="entry-title">You May Also Like</h2></div>');          
-    	document.write('<div class="clear">');
-    	while (i < relatedTitles.length && i < 20 && i < maxresults) {
-    		document.write('<div class="related-item col-1-3"><a style="text-decoration:none;margin:0 7px 0px 0;');
-    		if (i != 0) document.write('"');
-    		else document.write('"');
-    		document.write(' href="' + relatedUrls[r] + '"><img class="related_img" src="' + thumburl[r] + '"/><br/><div class="related_title">' + relatedTitles[r] + '</div></a></div>');
-    		if (r < relatedTitles.length - 1) {
-    			r++
-    		} else {
-    			r = 0
-    		}
-    		i++
-    	}
-    	document.write('</div>');
-    	relatedUrls.splice(0, relatedUrls.length);
-    	thumburl.splice(0, thumburl.length);
-    	relatedTitles.splice(0, relatedTitles.length)
+      document.write('<div class="clear">');
+      while (i < relatedTitles.length && i < 20 && i < maxresults) {
+        document.write('<div class="related-item col-1-3"><a style="text-decoration:none;margin:0 7px 0px 0;');
+        if (i != 0) document.write('"');
+        else document.write('"');
+        document.write(' href="' + relatedUrls[r] + '"><img class="related_img" src="' + thumburl[r] + '"/><br/><div class="related_title">' + relatedTitles[r] + '</div></a></div>');
+        if (r < relatedTitles.length - 1) {
+          r++
+        } else {
+          r = 0
+        }
+        i++
+      }
+      document.write('</div>');
+      relatedUrls.splice(0, relatedUrls.length);
+      thumburl.splice(0, thumburl.length);
+      relatedTitles.splice(0, relatedTitles.length)
     }
       //]]>
     </script>
@@ -2769,7 +2779,7 @@ document.write('<div class="large-12 column"><h2 class="entry-title">You May Als
 <script>
 $(document).ready(function(){
   $(&quot;.widget h2&quot;).wrapInner(&quot;<span/>&quot;);
-	});
+  });
 </script>
 
 <b:include data='blog' name='google-analytics'/>
@@ -2787,7 +2797,7 @@ $(document).ready(function(){
 <div class='headerleft fadeIn wow'>
 
  <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
-   <b:widget id='Header1' locked='true' title='Insight (Header)' type='Header'>
+   <b:widget id='Header1' locked='true' title='&amp;lt;rootcss/&amp;gt; (Header)' type='Header'>
      <b:includable id='main'>
 
   <b:if cond='data:useImage'>
@@ -2861,15 +2871,15 @@ $(document).ready(function(){
 </div>
 
 <div class='social-icons clearfix'>
-				<ul>
-<li class='facebook'><a href='#' target='_blank'><i class='fa fa-facebook'/></a></li>
+        <ul>
+<li class='facebook'><a href='https://facebook.com/rootcss' target='_blank'><i class='fa fa-facebook'/></a></li>
 <li class='twitter'><a href='#' target='_blank'><i class='fa fa-twitter'/></a></li>
 <li class='vimeo'><a href='#' target='_blank'><i class='fa fa-vimeo-square'/></a></li>
 <li class='google'><a href='#' target='_blank'><i class='fa fa-google-plus'/></a></li>
 <li class='instagram'><a href='#' target='_blank'><i class='fa fa-instagram'/></a></li>
 <li class='youtube'><a href='#' target='_blank'><i class='fa fa-youtube'/></a></li>
 <li class='pinterest'><a href='#' target='_blank'><i class='fa fa-pinterest'/></a></li>
-</ul>			</div>
+</ul>     </div>
 
 </div>
 
@@ -2886,19 +2896,19 @@ $(document).ready(function(){
 
 <div class='nav-collapse collapse'>
  <ul class='nav' id='menu-primary'>
- <li><a class='act' href='#' style='color:#fff;'>Home</a></li>
- <li><a href='#'>About me</a></li>
- <li class='dropdown'><a class='dropdown-toggle' data-toggle='dropdown' href='#'>Drop Down<i class='icon-angle-down'/></a>
+ <li><a class='act' href='http://cshekharsingh.blogspot.com/' style='color:#fff;'>Home</a></li>
+ <li><a href='https://about.me/cshekhar.singh'>About me</a></li>
+<!-- <li class='dropdown'><a class='dropdown-toggle' data-toggle='dropdown' href='#'>Drop Down<i class='icon-angle-down'/></a>
 <ul class='dropdown-menu'>
  <li><a href='#'>Full Width</a></li>
  <li><a href='#'>Right Sidebar</a></li>
  <li><a href='#'>Left Sidebar</a></li>
  <li><a href='#'>404 Page</a></li> 
 </ul>
-</li>
- <li><a href='#'>Technology</a></li>
- <li><a href='#'>Fashion</a></li>
- <li><a href='http://www.soratemplates.com/2015/07/insight-blogger-templates.html'>Download This Template</a></li>
+</li>-->
+ <li><a href='https://www.quora.com/profile/Shekhar-Singh-18'>Quora</a></li>
+ <li><a href='http://github.com/rootcss'>Github</a></li>
+ <li><a href='https://www.linkedin.com/in/cshekharsingh'>Connect with me!</a></li>
  </ul>
 </div>
  
@@ -2918,6 +2928,32 @@ $(document).ready(function(){
 <div class='row' id='primary'>
 <div class='span9' id='content' role='main'>
 <b:section class='main' id='main' showaddelement='no'>
+  <b:widget id='Text1' locked='false' title='' type='Text'>
+    <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+  </b:widget>
+  <b:widget id='HTML2' locked='false' title='' type='HTML'>
+    <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+  </b:widget>
   <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'>
     <b:includable id='main' var='top'>
   <b:if cond='data:mobile == &quot;false&quot;'>
@@ -3402,9 +3438,9 @@ $(document).ready(function(){
       <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'><data:newerPageTitle/></a>
       </span>
     </b:if>
-	
+  
     <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
-	
+  
     <b:if cond='data:olderPageUrl'>
       <span id='blog-pager-older-link'>
       <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'><data:olderPageTitle/></a>
@@ -3459,35 +3495,35 @@ $(document).ready(function(){
        
         
         
-	<div class='blog-share-button'>
+  <div class='blog-share-button'>
 
-		<ul>
-							<li>
-					<a class='facebook' expr:href='&quot;http://www.facebook.com/sharer.php?u=&quot; + data:post.url + &quot;&amp;title=&quot;+ data:post.title' rel='nofollow' target='_blank'><i class='fa fa-facebook'/></a>
-				</li>
-			  
+    <ul>
+              <li>
+          <a class='facebook' expr:href='&quot;http://www.facebook.com/sharer.php?u=&quot; + data:post.url + &quot;&amp;title=&quot;+ data:post.title' rel='nofollow' target='_blank'><i class='fa fa-facebook'/></a>
+        </li>
+        
 
-							<li>
-					<a class='twitter' expr:href='&quot;http://twitter.com/share?url=&quot; + data:post.url + &quot;&amp;title=&quot; + data:post.title' rel='nofollow' target='_blank'><i class='fa fa-twitter'/></a>
-				</li>
-			  
+              <li>
+          <a class='twitter' expr:href='&quot;http://twitter.com/share?url=&quot; + data:post.url + &quot;&amp;title=&quot; + data:post.title' rel='nofollow' target='_blank'><i class='fa fa-twitter'/></a>
+        </li>
+        
 
-							<li>
-					<a class='g-puls' expr:href='&quot;https://plus.google.com/u/0/share?url=&quot; + data:post.url' rel='nofollow' target='_blank'><i class='fa fa-google-plus'/></a>
-				</li>
-			  
+              <li>
+          <a class='g-puls' expr:href='&quot;https://plus.google.com/u/0/share?url=&quot; + data:post.url' rel='nofollow' target='_blank'><i class='fa fa-google-plus'/></a>
+        </li>
+        
 
 
-							<li>
-					<a class='pinterest' expr:href='&quot;http://pinterest.com/pin/create/button/?source_url=&quot; + data:post.url + &quot;&amp;media=&quot; + data:post.firstImageUrl + &quot;&amp;description=&quot; + data:post.title' target='_blank'><i class='fa fa-pinterest'/></a>
-				</li>
-			  
+              <li>
+          <a class='pinterest' expr:href='&quot;http://pinterest.com/pin/create/button/?source_url=&quot; + data:post.url + &quot;&amp;media=&quot; + data:post.firstImageUrl + &quot;&amp;description=&quot; + data:post.title' target='_blank'><i class='fa fa-pinterest'/></a>
+        </li>
+        
 
-			 
+       
 
-			 
-		</ul>
-	</div>
+       
+    </ul>
+  </div>
   
  <!--/add social share -->   
         </div>
@@ -3540,7 +3576,7 @@ $(document).ready(function(){
 </div>
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
 <div id='related-posts'>
-						  <b:loop values='data:post.labels' var='label'>
+              <b:loop values='data:post.labels' var='label'>
                           <b:if cond='data:label.isLast != &quot;true&quot;'>
                           </b:if>
                          <b:if cond='data:blog.pageType == &quot;item&quot;'>
@@ -3825,37 +3861,116 @@ $(document).ready(function(){
 <div class='span3' id='side-bar'>
 
 <div class='sidebar'>
-	<div class='sidebar-inner'>
+  <div class='sidebar-inner'>
 
 
 
       </div>
   </div>
 <b:section class='sidebar' id='sidebar' preferred='yes'>
-  <b:widget id='HTML4' locked='false' title='About' type='HTML'>
+  <b:widget id='Label1' locked='false' title='Labels' type='Label'>
     <b:includable id='main'>
-  <!-- only display title if it's non-empty -->
-  <b:if cond='data:title != &quot;&quot;'>
-    <h2 class='title'><data:title/></h2>
+  <b:if cond='data:title'>
+    <h2><data:title/></h2>
   </b:if>
-  <div class='widget-content'>
-    <data:content/>
+  <div expr:class='&quot;widget-content &quot; + data:display + &quot;-label-widget-content&quot;'>
+    <b:if cond='data:display == &quot;list&quot;'>
+      <ul>
+      <b:loop values='data:labels' var='label'>
+        <li>
+          <b:if cond='data:blog.url == data:label.url'>
+            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
+          <b:else/>
+            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
+          </b:if>
+        </li>
+      </b:loop>
+      </ul>
+    <b:else/>
+      <b:loop values='data:labels' var='label'>
+        <span expr:class='&quot;label-size label-size-&quot; + data:label.cssSize'>
+          <b:if cond='data:blog.url == data:label.url'>
+            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
+          <b:else/>
+            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
+          </b:if>
+          <b:if cond='data:showFreqNumbers'>
+            <span class='label-count' dir='ltr'>(<data:label.count/>)</span>
+          </b:if>
+        </span>
+      </b:loop>
+    </b:if>
+    <b:include name='quickedit'/>
   </div>
-
-  <b:include name='quickedit'/>
 </b:includable>
   </b:widget>
-  <b:widget id='HTML2' locked='false' title='Follow Us' type='HTML'>
+  <b:widget id='BlogArchive1' locked='false' title='' type='BlogArchive'>
     <b:includable id='main'>
-  <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
-    <h2 class='title'><data:title/></h2>
+    <h2><data:title/></h2>
   </b:if>
   <div class='widget-content'>
-    <data:content/>
+  <div id='ArchiveList'>
+  <div expr:id='data:widget.instanceId + &quot;_ArchiveList&quot;'>
+    <b:include cond='data:style == &quot;HIERARCHY&quot;' data='data' name='interval'/>
+    <b:include cond='data:style == &quot;FLAT&quot;' data='data' name='flat'/>
+    <b:include cond='data:style == &quot;MENU&quot;' data='data' name='menu'/>
   </div>
-
+  </div>
   <b:include name='quickedit'/>
+  </div>
+</b:includable>
+    <b:includable id='flat' var='data'>
+  <ul class='flat'>
+    <b:loop values='data:data' var='i'>
+      <li class='archivedate'>
+        <a expr:href='data:i.url'><data:i.name/></a> (<data:i.post-count/>)
+      </li>
+    </b:loop>
+  </ul>
+</b:includable>
+    <b:includable id='interval' var='intervalData'>
+  <b:loop values='data:intervalData' var='interval'>
+    <ul class='hierarchy' style='font-size:12px;font-weight:normal;'>
+      <li expr:class='&quot;archivedate &quot; + data:interval.expclass'>
+        <b:include cond='data:interval.toggleId' data='interval' name='toggle'/>
+        <a class='post-count-link' expr:href='data:interval.url'>
+          <data:interval.name/>
+        </a>
+        <span class='post-count' dir='ltr'>(<data:interval.post-count/>)</span>
+        <b:include cond='data:interval.data' data='interval.data' name='interval'/>
+        <b:include cond='data:interval.posts' data='interval.posts' name='posts'/>
+      </li>
+    </ul>
+  </b:loop>
+</b:includable>
+    <b:includable id='menu' var='data'>
+  <select expr:id='data:widget.instanceId + &quot;_ArchiveMenu&quot;'>
+    <option value=''><data:title/></option>
+    <b:loop values='data:data' var='i'>
+      <option expr:value='data:i.url'><data:i.name/> (<data:i.post-count/>)</option>
+    </b:loop>
+  </select>
+</b:includable>
+    <b:includable id='posts' var='posts'>
+  <ul class='posts'>
+    <b:loop values='data:posts' var='post'>
+      <li><a expr:href='data:post.url' style='font-size:12px;font-weight:normal;'><data:post.title/></a></li>
+    </b:loop>
+  </ul>
+</b:includable>
+    <b:includable id='toggle' var='interval'>
+  <a class='toggle' href='javascript:void(0)'>
+    <span expr:class='&quot;zippy&quot; + (data:interval.expclass == &quot;expanded&quot; ? &quot; toggle-open&quot; : &quot;&quot;)'>
+      <b:if cond='data:interval.expclass == &quot;expanded&quot;'>
+        &#9660;&#160;
+      <b:elseif cond='data:blog.languageDirection == &quot;rtl&quot;'/>
+        &#9668;&#160;
+      <b:else/>
+        &#9658;&#160;
+      </b:if>
+    </span>
+  </a>
 </b:includable>
   </b:widget>
   <b:widget id='PopularPosts1' locked='false' title='Popular Posts' type='PopularPosts'>
@@ -3911,7 +4026,7 @@ $(document).ready(function(){
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='HTML1' locked='false' title='Facebook' type='HTML'>
+  <b:widget id='HTML1' locked='false' title='' type='HTML'>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -3921,61 +4036,8 @@ $(document).ready(function(){
     <data:content/>
   </div>
 
-      <b:include name='quickedit'/>
+  <b:include name='quickedit'/>
 </b:includable>
-  </b:widget>
-  <b:widget id='Label1' locked='false' title='Labels' type='Label'>
-    <b:includable id='main'>
-  <b:if cond='data:title'>
-    <h2><data:title/></h2>
-  </b:if>
-  <div expr:class='&quot;widget-content &quot; + data:display + &quot;-label-widget-content&quot;'>
-    <b:if cond='data:display == &quot;list&quot;'>
-      <ul>
-      <b:loop values='data:labels' var='label'>
-        <li>
-          <b:if cond='data:blog.url == data:label.url'>
-            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
-          <b:else/>
-            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
-          </b:if>
-        </li>
-      </b:loop>
-      </ul>
-    <b:else/>
-      <b:loop values='data:labels' var='label'>
-        <span expr:class='&quot;label-size label-size-&quot; + data:label.cssSize'>
-          <b:if cond='data:blog.url == data:label.url'>
-            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
-          <b:else/>
-            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
-          </b:if>
-          <b:if cond='data:showFreqNumbers'>
-            <span class='label-count' dir='ltr'>(<data:label.count/>)</span>
-          </b:if>
-        </span>
-      </b:loop>
-    </b:if>
-    <b:include name='quickedit'/>
-  </div>
-</b:includable>
-  </b:widget>
-  <b:widget id='Image1' locked='false' title='Advertising' type='Image'>
-    <b:includable id='main'>
-    <b:if cond='data:title != &quot;&quot;'>
-      <h2><data:title/></h2>
-    </b:if>
-    <div class='widget-content'>
-      <b:if cond='data:link != &quot;&quot;'>
-        <a class='bl_popover' data-placement='top' data-title='Medium rectangle' data-trigger='hover' expr:data-content='data:caption' expr:href='data:link' style='display:block;'>
-          <img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &quot;_img&quot;' expr:src='data:sourceUrl' expr:width='data:width'/>
-        </a>
-      <b:else/>
-        <img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &quot;_img&quot;' expr:src='data:sourceUrl' expr:width='data:width'/>
-      </b:if>
-    </div>
-    <b:include name='quickedit'/>
-  </b:includable>
   </b:widget>
 </b:section>
 </div>
@@ -3987,27 +4049,27 @@ $(document).ready(function(){
 
 
 <div class='footer' id='footer1'>
-		
-		<div class='container clearfix'>
-			
-						
-				<div class='go-top'>
-					<a href='#'><i class='fa fa-angle-up'/></a>
-				</div>
-			
-			
-			
-										<div id='copyright'>
+    
+    <div class='container clearfix'>
+      
+            
+        <div class='go-top'>
+          <a href='#'><i class='fa fa-angle-up'/></a>
+        </div>
+      
+      
+      
+                    <div id='copyright'>
 
 
 <div class='copyright-left' style='float:left'>
-					Copyright &amp;copy; 2015 <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>			</div>
-				<div class='copyright-right' style='float:right'>
-                  <span id='mycontent'/> | Distributed By <a href='http://gooyaabitemplates.com/' rel='dofollow' target='_blank'>Gooyaabi Templates</a>			</div>
+          Copyright &amp;copy; 2015 <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>     </div>
+        <div class='copyright-right' style='float:right;color:white;font-size:1px;'>
+                  <span id='mycontent' style='color:white;'/> | Distributed By <a href='http://gooyaabitemplates.com/' rel='dofollow' style='color:white;' target='_blank'>Gooyaabi Templates</a>     </div>
 </div>
-						
-		</div>
-		
+            
+    </div>
+    
   </div></div>
 <script type='text/javascript'>//<![CDATA[
 var posts=4,
